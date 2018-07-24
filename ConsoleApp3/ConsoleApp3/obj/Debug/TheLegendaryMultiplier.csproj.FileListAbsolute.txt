@@ -1,0 +1,7 @@
+c:\users\kay\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+c:\users\kay\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+c:\users\kay\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+c:\users\kay\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\TheLegendaryMultiplier.csprojAssemblyReference.cache
+c:\users\kay\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\TheLegendaryMultiplier.csproj.CoreCompileInputs.cache
+c:\users\kay\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+c:\users\kay\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
